@@ -1,0 +1,8 @@
+1. Maximum width = 1170px
+
+2. Variables are declared like this:
+    --variable1, --mainColour
+
+3.The <header> element represents a container for introductory content or a set of navigational links.
+
+4.
